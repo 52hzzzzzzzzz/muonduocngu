@@ -1,2 +1,0 @@
-# muonduocngu
-thuật giải
