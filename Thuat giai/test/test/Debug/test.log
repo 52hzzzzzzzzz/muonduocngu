@@ -1,6 +1,0 @@
-﻿  Program.cpp
-D:\Hoc Hanh Cham chi\Thuat giai\test\test\Menu.h(33,7): warning C4101: 'x': unreferenced local variable
-D:\Hoc Hanh Cham chi\Thuat giai\test\test\Menu.h(33,10): warning C4101: 'kq': unreferenced local variable
-D:\Hoc Hanh Cham chi\Thuat giai\test\test\Program.cpp(22,7): warning C4101: 'l': unreferenced local variable
-D:\Hoc Hanh Cham chi\Thuat giai\test\test\Program.cpp(22,10): warning C4101: 'kq': unreferenced local variable
-  test.vcxproj -> D:\Hoc Hanh Cham chi\Thuat giai\test\Debug\test.exe
